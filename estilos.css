@@ -18,3 +18,22 @@ h1
     color: white;
     text-align: center;
 }
+.Tit_Pag1
+{
+    font-weight: bold;
+    color: green;
+}
+
+.Fondo_pag1
+{
+    background-image: url(img/Bombonera.jpg);
+    height: 596px;
+    width: 1060px;
+}
+.Estilo_pag1
+{
+    font-style: italic;
+    font-family: courier;
+    color: green;
+    text-align: justify;
+}
