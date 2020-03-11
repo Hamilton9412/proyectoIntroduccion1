@@ -1,0 +1,20 @@
+h1
+{
+    font-weight: bold;
+}
+.Fondo_Index
+{
+    background-image: url(img/Estadios.jpg);
+    height: 635px;
+    width: 1900px;
+}
+.Texto_Descripcion
+{
+    font-size: 1.5em;
+}
+.Pie_Pagina
+{
+    background-color: grey;
+    color: white;
+    text-align: center;
+}
